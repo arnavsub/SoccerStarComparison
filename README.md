@@ -1,7 +1,7 @@
 # SoccerStarComparison
-Comparing Messi and Ronaldo stats: Visualization, Statistical Test, SQLLite
+Comparing Messi and Ronaldo stats: Visualization, Statistical Test, SQLLite, Tableau
 
-
+**Interactive Dashboard:** [View live on Tableau Public](Ihttps://public.tableau.com/app/profile/arnav.subramanian/viz/MessiRonaldo_Stats/Dashboard1?publish=yes)
 
 # Messi vs. Ronaldo: Who Was the More Effective Player?
 
